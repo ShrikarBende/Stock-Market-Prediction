@@ -92,7 +92,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ShrikarBende/Stock-Market-Prediction.git](https://github.com/ShrikarBende/Stock-Market-Prediction.git)
+    git clone https://github.com/ShrikarBende/Stock-Market-Prediction.git
     cd Stock-Market-Prediction
     ```
 
